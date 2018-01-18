@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<problems>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/build.gradle</file>
+    <line>31</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/build.gradle" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Obsolete Gradle Dependency</problem_class>
+    <hints />
+    <description>&lt;html&gt;A newer version of com.google.android.gms:play-services-maps than 11.0.4 is available: 11.8.0&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/build.gradle</file>
+    <line>32</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/build.gradle" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Obsolete Gradle Dependency</problem_class>
+    <hints />
+    <description>&lt;html&gt;A newer version of com.google.android.gms:play-services-location than 11.0.4 is available: 11.8.0&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/build.gradle</file>
+    <line>35</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/build.gradle" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Obsolete Gradle Dependency</problem_class>
+    <hints />
+    <description>&lt;html&gt;A newer version of com.google.firebase:firebase-database than 11.0.4 is available: 11.8.0&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/build.gradle</file>
+    <line>36</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/build.gradle" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Obsolete Gradle Dependency</problem_class>
+    <hints />
+    <description>&lt;html&gt;A newer version of com.google.firebase:firebase-auth than 11.0.4 is available: 11.8.0&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/build.gradle</file>
+    <line>44</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/build.gradle" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Obsolete Gradle Dependency</problem_class>
+    <hints />
+    <description>&lt;html&gt;A newer version of com.google.firebase:firebase-storage than 11.0.4 is available: 11.8.0&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/build.gradle</file>
+    <line>45</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/build.gradle" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Obsolete Gradle Dependency</problem_class>
+    <hints />
+    <description>&lt;html&gt;A newer version of com.google.firebase:firebase-core than 11.0.4 is available: 11.8.0&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/build.gradle</file>
+    <line>47</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/build.gradle" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Obsolete Gradle Dependency</problem_class>
+    <hints />
+    <description>&lt;html&gt;A newer version of com.android.support:support-annotations than 22.2.0 is available: 27.0.2&lt;/html&gt;</description>
+  </problem>
+</problems>
+

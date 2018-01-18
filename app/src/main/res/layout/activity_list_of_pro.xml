@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.meravdor.supermarket.listOfProActivity">
+
+
+
+    <ScrollView
+    android:id="@+id/list"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:layout_editor_absoluteX="16dp"
+    tools:layout_editor_absoluteY="0dp"
+    tools:ignore="MissingConstraints">
+
+    <LinearLayout
+
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <android.support.design.widget.TextInputLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/nameproduct1"
+            android:layout_width="match_parent"
+            android:layout_height="31dp"
+            android:maxLines="1"
+            android:singleLine="true"
+            android:text="Product Name" />
+
+        <CheckBox
+            android:id="@+id/check1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="CheckBox" />
+
+    </android.support.design.widget.TextInputLayout>
+
+        <Button
+            android:id="@+id/infobutton1"
+            style="?android:textAppearanceSmall"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="information"
+            android:textStyle="bold" />
+
+
+        <android.support.design.widget.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+        android:id="@+id/nameproduct2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Product Name"
+        android:maxLines="1"
+        android:singleLine="true" />
+
+        <CheckBox
+            android:id="@+id/check2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="CheckBox" />
+
+        </android.support.design.widget.TextInputLayout>
+
+        <Button
+        android:id="@+id/infobutton2"
+        style="?android:textAppearanceSmall"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="information"
+        android:textStyle="bold" />
+
+
+
+        <!--<android.support.design.widget.TextInputLayout-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content">-->
+
+        <!--<TextView-->
+        <!--android:id="@+id/nameproduct3"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:text="Product Name"-->
+        <!--android:maxLines="1"-->
+        <!--android:singleLine="true" />-->
+        <!--<CheckBox-->
+            <!--android:id="@+id/check3"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_weight="1"-->
+            <!--android:text="CheckBox" />-->
+
+        <!--</android.support.design.widget.TextInputLayout>-->
+
+        <!--<Button-->
+        <!--android:id="@+id/infobutton3"-->
+        <!--style="?android:textAppearanceSmall"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:text="information"-->
+        <!--android:textStyle="bold" />-->
+
+
+
+        <!--<android.support.design.widget.TextInputLayout-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content">-->
+
+        <!--<TextView-->
+        <!--android:id="@+id/nameproduct4"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:text="Product Name"-->
+        <!--android:maxLines="1"-->
+        <!--android:singleLine="true" />-->
+
+        <!--<CheckBox-->
+            <!--android:id="@+id/check4"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_weight="1"-->
+            <!--android:text="CheckBox" />-->
+        <!--</android.support.design.widget.TextInputLayout>-->
+
+        <!--<Button-->
+        <!--android:id="@+id/infobutton4"-->
+        <!--style="?android:textAppearanceSmall"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:text="information"-->
+        <!--android:textStyle="bold" />-->
+
+
+
+
+        <!--<android.support.design.widget.TextInputLayout-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content">-->
+
+        <!--<TextView-->
+        <!--android:id="@+id/nameproduct5"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:text="Product Name"-->
+        <!--android:maxLines="1"-->
+        <!--android:singleLine="true" />-->
+
+        <!--<CheckBox-->
+            <!--android:id="@+id/check5"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_weight="1"-->
+            <!--android:text="CheckBox" />-->
+
+        <!--</android.support.design.widget.TextInputLayout>-->
+
+        <!--<Button-->
+        <!--android:id="@+id/infobutton5"-->
+        <!--style="?android:textAppearanceSmall"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:text="information"-->
+        <!--android:textStyle="bold" />-->
+
+        <!--<android.support.design.widget.TextInputLayout-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content">-->
+
+        <!--<TextView-->
+        <!--android:id="@+id/nameproduct6"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:text="Product Name"-->
+        <!--android:maxLines="1"-->
+        <!--android:singleLine="true" />-->
+
+        <!--<CheckBox-->
+            <!--android:id="@+id/check6"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_weight="1"-->
+            <!--android:text="CheckBox" />-->
+
+        <!--</android.support.design.widget.TextInputLayout>-->
+
+        <!--<Button-->
+        <!--android:id="@+id/infobutton6"-->
+        <!--style="?android:textAppearanceSmall"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:text="information"-->
+        <!--android:textStyle="bold" />-->
+
+
+        <Button
+            android:id="@+id/mylist"
+            style="?android:textAppearanceSmall"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="My List"
+            android:textStyle="bold" />
+    </LinearLayout>
+    </ScrollView>
+</android.support.constraint.ConstraintLayout>

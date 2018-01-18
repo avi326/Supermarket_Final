@@ -1,0 +1,622 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<problems>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/res/drawable/ic_account_circle_black_24dp.xml</file>
+    <line>8</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_account_circle_black_24dp.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Line is longer than allowed by code style</problem_class>
+    <description>Line is longer than allowed by code style (&gt; 100 columns)</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/MapsActivity.java</file>
+    <line>64</line>
+    <module>app</module>
+    <package>com.example.meravdor.supermarket</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/MapsActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Line is longer than allowed by code style</problem_class>
+    <description>Line is longer than allowed by code style (&gt; 100 columns)</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/MapsActivity.java</file>
+    <line>69</line>
+    <module>app</module>
+    <package>com.example.meravdor.supermarket</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/MapsActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Line is longer than allowed by code style</problem_class>
+    <description>Line is longer than allowed by code style (&gt; 100 columns)</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/MapsActivity.java</file>
+    <line>93</line>
+    <module>app</module>
+    <package>com.example.meravdor.supermarket</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/MapsActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Line is longer than allowed by code style</problem_class>
+    <description>Line is longer than allowed by code style (&gt; 100 columns)</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/MapsActivity.java</file>
+    <line>121</line>
+    <module>app</module>
+    <package>com.example.meravdor.supermarket</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/MapsActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Line is longer than allowed by code style</problem_class>
+    <description>Line is longer than allowed by code style (&gt; 100 columns)</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/MapsActivity.java</file>
+    <line>142</line>
+    <module>app</module>
+    <package>com.example.meravdor.supermarket</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/MapsActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Line is longer than allowed by code style</problem_class>
+    <description>Line is longer than allowed by code style (&gt; 100 columns)</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/MapsActivity.java</file>
+    <line>152</line>
+    <module>app</module>
+    <package>com.example.meravdor.supermarket</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/MapsActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Line is longer than allowed by code style</problem_class>
+    <description>Line is longer than allowed by code style (&gt; 100 columns)</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/MapsActivity.java</file>
+    <line>153</line>
+    <module>app</module>
+    <package>com.example.meravdor.supermarket</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/MapsActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Line is longer than allowed by code style</problem_class>
+    <description>Line is longer than allowed by code style (&gt; 100 columns)</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/MapsActivity.java</file>
+    <line>154</line>
+    <module>app</module>
+    <package>com.example.meravdor.supermarket</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/MapsActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Line is longer than allowed by code style</problem_class>
+    <description>Line is longer than allowed by code style (&gt; 100 columns)</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/MapsActivity.java</file>
+    <line>157</line>
+    <module>app</module>
+    <package>com.example.meravdor.supermarket</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/MapsActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Line is longer than allowed by code style</problem_class>
+    <description>Line is longer than allowed by code style (&gt; 100 columns)</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_menu2.xml</file>
+    <line>2</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_menu2.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Line is longer than allowed by code style</problem_class>
+    <description>Line is longer than allowed by code style (&gt; 100 columns)</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/gradlew</file>
+    <line>9</line>
+    <module>Supermarket</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/gradlew" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Line is longer than allowed by code style</problem_class>
+    <description>Line is longer than allowed by code style (&gt; 100 columns)</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/gradlew</file>
+    <line>81</line>
+    <module>Supermarket</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/gradlew" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Line is longer than allowed by code style</problem_class>
+    <description>Line is longer than allowed by code style (&gt; 100 columns)</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/gradlew</file>
+    <line>130</line>
+    <module>Supermarket</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/gradlew" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Line is longer than allowed by code style</problem_class>
+    <description>Line is longer than allowed by code style (&gt; 100 columns)</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/gradlew</file>
+    <line>149</line>
+    <module>Supermarket</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/gradlew" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Line is longer than allowed by code style</problem_class>
+    <description>Line is longer than allowed by code style (&gt; 100 columns)</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/gradlew</file>
+    <line>153</line>
+    <module>Supermarket</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/gradlew" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Line is longer than allowed by code style</problem_class>
+    <description>Line is longer than allowed by code style (&gt; 100 columns)</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/gradlew.bat</file>
+    <line>11</line>
+    <module>Supermarket</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/gradlew.bat" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Line is longer than allowed by code style</problem_class>
+    <description>Line is longer than allowed by code style (&gt; 100 columns)</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/gradlew.bat</file>
+    <line>75</line>
+    <module>Supermarket</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/gradlew.bat" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Line is longer than allowed by code style</problem_class>
+    <description>Line is longer than allowed by code style (&gt; 100 columns)</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml</file>
+    <line>57</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Line is longer than allowed by code style</problem_class>
+    <description>Line is longer than allowed by code style (&gt; 100 columns)</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml</file>
+    <line>59</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Line is longer than allowed by code style</problem_class>
+    <description>Line is longer than allowed by code style (&gt; 100 columns)</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/res/drawable-v24/ic_launcher_foreground.xml</file>
+    <line>9</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Line is longer than allowed by code style</problem_class>
+    <description>Line is longer than allowed by code style (&gt; 100 columns)</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/res/drawable-v24/ic_launcher_foreground.xml</file>
+    <line>31</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Line is longer than allowed by code style</problem_class>
+    <description>Line is longer than allowed by code style (&gt; 100 columns)</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/LoginActivity.java</file>
+    <line>98</line>
+    <module>app</module>
+    <package>com.example.meravdor.supermarket</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/LoginActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Line is longer than allowed by code style</problem_class>
+    <description>Line is longer than allowed by code style (&gt; 100 columns)</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/LoginActivity.java</file>
+    <line>224</line>
+    <module>app</module>
+    <package>com.example.meravdor.supermarket</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/LoginActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Line is longer than allowed by code style</problem_class>
+    <description>Line is longer than allowed by code style (&gt; 100 columns)</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/LoginActivity.java</file>
+    <line>237</line>
+    <module>app</module>
+    <package>com.example.meravdor.supermarket</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/LoginActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Line is longer than allowed by code style</problem_class>
+    <description>Line is longer than allowed by code style (&gt; 100 columns)</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/ProfileActivity.java</file>
+    <line>67</line>
+    <module>app</module>
+    <package>com.example.meravdor.supermarket</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/ProfileActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Line is longer than allowed by code style</problem_class>
+    <description>Line is longer than allowed by code style (&gt; 100 columns)</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/ProfileActivity.java</file>
+    <line>82</line>
+    <module>app</module>
+    <package>com.example.meravdor.supermarket</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/ProfileActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Line is longer than allowed by code style</problem_class>
+    <description>Line is longer than allowed by code style (&gt; 100 columns)</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/ProfileActivity.java</file>
+    <line>96</line>
+    <module>app</module>
+    <package>com.example.meravdor.supermarket</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/ProfileActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Line is longer than allowed by code style</problem_class>
+    <description>Line is longer than allowed by code style (&gt; 100 columns)</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/ProfileActivity.java</file>
+    <line>111</line>
+    <module>app</module>
+    <package>com.example.meravdor.supermarket</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/ProfileActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Line is longer than allowed by code style</problem_class>
+    <description>Line is longer than allowed by code style (&gt; 100 columns)</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/ProfileActivity.java</file>
+    <line>142</line>
+    <module>app</module>
+    <package>com.example.meravdor.supermarket</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/ProfileActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Line is longer than allowed by code style</problem_class>
+    <description>Line is longer than allowed by code style (&gt; 100 columns)</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/ProfileActivity.java</file>
+    <line>157</line>
+    <module>app</module>
+    <package>com.example.meravdor.supermarket</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/ProfileActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Line is longer than allowed by code style</problem_class>
+    <description>Line is longer than allowed by code style (&gt; 100 columns)</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml</file>
+    <line>2</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Line is longer than allowed by code style</problem_class>
+    <description>Line is longer than allowed by code style (&gt; 100 columns)</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/debug/res/values/google_maps_api.xml</file>
+    <line>7</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/debug/res/values/google_maps_api.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Line is longer than allowed by code style</problem_class>
+    <description>Line is longer than allowed by code style (&gt; 100 columns)</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/debug/res/values/google_maps_api.xml</file>
+    <line>26</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/debug/res/values/google_maps_api.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Line is longer than allowed by code style</problem_class>
+    <description>Line is longer than allowed by code style (&gt; 100 columns)</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/release/res/values/google_maps_api.xml</file>
+    <line>19</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/release/res/values/google_maps_api.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Line is longer than allowed by code style</problem_class>
+    <description>Line is longer than allowed by code style (&gt; 100 columns)</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_register.xml</file>
+    <line>2</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_register.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Line is longer than allowed by code style</problem_class>
+    <description>Line is longer than allowed by code style (&gt; 100 columns)</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/RegisterActivity.java</file>
+    <line>102</line>
+    <module>app</module>
+    <package>com.example.meravdor.supermarket</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/RegisterActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Line is longer than allowed by code style</problem_class>
+    <description>Line is longer than allowed by code style (&gt; 100 columns)</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/RegisterActivity.java</file>
+    <line>108</line>
+    <module>app</module>
+    <package>com.example.meravdor.supermarket</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/RegisterActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Line is longer than allowed by code style</problem_class>
+    <description>Line is longer than allowed by code style (&gt; 100 columns)</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/RegisterActivity.java</file>
+    <line>114</line>
+    <module>app</module>
+    <package>com.example.meravdor.supermarket</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/RegisterActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Line is longer than allowed by code style</problem_class>
+    <description>Line is longer than allowed by code style (&gt; 100 columns)</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/RegisterActivity.java</file>
+    <line>119</line>
+    <module>app</module>
+    <package>com.example.meravdor.supermarket</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/RegisterActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Line is longer than allowed by code style</problem_class>
+    <description>Line is longer than allowed by code style (&gt; 100 columns)</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/RegisterActivity.java</file>
+    <line>123</line>
+    <module>app</module>
+    <package>com.example.meravdor.supermarket</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/RegisterActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Line is longer than allowed by code style</problem_class>
+    <description>Line is longer than allowed by code style (&gt; 100 columns)</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/RegisterActivity.java</file>
+    <line>130</line>
+    <module>app</module>
+    <package>com.example.meravdor.supermarket</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/RegisterActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Line is longer than allowed by code style</problem_class>
+    <description>Line is longer than allowed by code style (&gt; 100 columns)</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/RegisterActivity.java</file>
+    <line>133</line>
+    <module>app</module>
+    <package>com.example.meravdor.supermarket</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/RegisterActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Line is longer than allowed by code style</problem_class>
+    <description>Line is longer than allowed by code style (&gt; 100 columns)</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/RegisterActivity.java</file>
+    <line>136</line>
+    <module>app</module>
+    <package>com.example.meravdor.supermarket</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/RegisterActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Line is longer than allowed by code style</problem_class>
+    <description>Line is longer than allowed by code style (&gt; 100 columns)</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/RegisterActivity.java</file>
+    <line>207</line>
+    <module>app</module>
+    <package>com.example.meravdor.supermarket</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/RegisterActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Line is longer than allowed by code style</problem_class>
+    <description>Line is longer than allowed by code style (&gt; 100 columns)</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/RegisterActivity.java</file>
+    <line>254</line>
+    <module>app</module>
+    <package>com.example.meravdor.supermarket</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/RegisterActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Line is longer than allowed by code style</problem_class>
+    <description>Line is longer than allowed by code style (&gt; 100 columns)</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/res/drawable/ic_email_black_24dp.xml</file>
+    <line>8</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_email_black_24dp.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Line is longer than allowed by code style</problem_class>
+    <description>Line is longer than allowed by code style (&gt; 100 columns)</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/res/drawable/ic_phone_android_black_24dp.xml</file>
+    <line>8</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_phone_android_black_24dp.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Line is longer than allowed by code style</problem_class>
+    <description>Line is longer than allowed by code style (&gt; 100 columns)</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/res/drawable/ic_account_box_black_24dp.xml</file>
+    <line>8</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_account_box_black_24dp.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Line is longer than allowed by code style</problem_class>
+    <description>Line is longer than allowed by code style (&gt; 100 columns)</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/res/drawable/ic_lock_outline_black_24dp.xml</file>
+    <line>8</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_lock_outline_black_24dp.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Line is longer than allowed by code style</problem_class>
+    <description>Line is longer than allowed by code style (&gt; 100 columns)</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/User.java</file>
+    <line>20</line>
+    <module>app</module>
+    <package>com.example.meravdor.supermarket</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/User.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Line is longer than allowed by code style</problem_class>
+    <description>Line is longer than allowed by code style (&gt; 100 columns)</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/User.java</file>
+    <line>30</line>
+    <module>app</module>
+    <package>com.example.meravdor.supermarket</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/User.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Line is longer than allowed by code style</problem_class>
+    <description>Line is longer than allowed by code style (&gt; 100 columns)</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/google-services.json</file>
+    <line>51</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/google-services.json" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Line is longer than allowed by code style</problem_class>
+    <description>Line is longer than allowed by code style (&gt; 100 columns)</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/AdminMenuActivity.java</file>
+    <line>47</line>
+    <module>app</module>
+    <package>com.example.meravdor.supermarket</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/AdminMenuActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Line is longer than allowed by code style</problem_class>
+    <description>Line is longer than allowed by code style (&gt; 100 columns)</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_admin_menu.xml</file>
+    <line>2</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_admin_menu.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Line is longer than allowed by code style</problem_class>
+    <description>Line is longer than allowed by code style (&gt; 100 columns)</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_listview.xml</file>
+    <line>3</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_listview.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Line is longer than allowed by code style</problem_class>
+    <description>Line is longer than allowed by code style (&gt; 100 columns)</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/SalesActivity.java</file>
+    <line>39</line>
+    <module>app</module>
+    <package>com.example.meravdor.supermarket</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/SalesActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Line is longer than allowed by code style</problem_class>
+    <description>Line is longer than allowed by code style (&gt; 100 columns)</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_add_product.xml</file>
+    <line>2</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_add_product.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Line is longer than allowed by code style</problem_class>
+    <description>Line is longer than allowed by code style (&gt; 100 columns)</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_menu_product.xml</file>
+    <line>2</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_menu_product.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Line is longer than allowed by code style</problem_class>
+    <description>Line is longer than allowed by code style (&gt; 100 columns)</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/Product.java</file>
+    <line>16</line>
+    <module>app</module>
+    <package>com.example.meravdor.supermarket</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/Product.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Line is longer than allowed by code style</problem_class>
+    <description>Line is longer than allowed by code style (&gt; 100 columns)</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/res/drawable/ic_attach_money_black_24dp.xml</file>
+    <line>8</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_attach_money_black_24dp.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Line is longer than allowed by code style</problem_class>
+    <description>Line is longer than allowed by code style (&gt; 100 columns)</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/res/drawable/ic_border_horizontal_black_24dp.xml</file>
+    <line>8</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_border_horizontal_black_24dp.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Line is longer than allowed by code style</problem_class>
+    <description>Line is longer than allowed by code style (&gt; 100 columns)</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/res/drawable/ic_border_style_black_24dp.xml</file>
+    <line>8</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_border_style_black_24dp.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Line is longer than allowed by code style</problem_class>
+    <description>Line is longer than allowed by code style (&gt; 100 columns)</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_list_of_pro.xml</file>
+    <line>2</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_list_of_pro.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Line is longer than allowed by code style</problem_class>
+    <description>Line is longer than allowed by code style (&gt; 100 columns)</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/ProductActivity.java</file>
+    <line>48</line>
+    <module>app</module>
+    <package>com.example.meravdor.supermarket</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/ProductActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Line is longer than allowed by code style</problem_class>
+    <description>Line is longer than allowed by code style (&gt; 100 columns)</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/ProductActivity.java</file>
+    <line>68</line>
+    <module>app</module>
+    <package>com.example.meravdor.supermarket</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/ProductActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Line is longer than allowed by code style</problem_class>
+    <description>Line is longer than allowed by code style (&gt; 100 columns)</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/ProductActivity.java</file>
+    <line>86</line>
+    <module>app</module>
+    <package>com.example.meravdor.supermarket</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/ProductActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Line is longer than allowed by code style</problem_class>
+    <description>Line is longer than allowed by code style (&gt; 100 columns)</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/ProductActivity.java</file>
+    <line>104</line>
+    <module>app</module>
+    <package>com.example.meravdor.supermarket</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/ProductActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Line is longer than allowed by code style</problem_class>
+    <description>Line is longer than allowed by code style (&gt; 100 columns)</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/ProductActivity.java</file>
+    <line>122</line>
+    <module>app</module>
+    <package>com.example.meravdor.supermarket</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/ProductActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Line is longer than allowed by code style</problem_class>
+    <description>Line is longer than allowed by code style (&gt; 100 columns)</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/ProductActivity.java</file>
+    <line>140</line>
+    <module>app</module>
+    <package>com.example.meravdor.supermarket</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/ProductActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Line is longer than allowed by code style</problem_class>
+    <description>Line is longer than allowed by code style (&gt; 100 columns)</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_add_sale.xml</file>
+    <line>2</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_add_sale.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Line is longer than allowed by code style</problem_class>
+    <description>Line is longer than allowed by code style (&gt; 100 columns)</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/example/meravdor/supermarket/Espresso.java</file>
+    <line>38</line>
+    <module>app</module>
+    <package>com.example.meravdor.supermarket</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/androidTest/java/com/example/meravdor/supermarket/Espresso.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Line is longer than allowed by code style</problem_class>
+    <description>Line is longer than allowed by code style (&gt; 100 columns)</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/example/meravdor/supermarket/Espresso.java</file>
+    <line>44</line>
+    <module>app</module>
+    <package>com.example.meravdor.supermarket</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/androidTest/java/com/example/meravdor/supermarket/Espresso.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Line is longer than allowed by code style</problem_class>
+    <description>Line is longer than allowed by code style (&gt; 100 columns)</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/example/meravdor/supermarket/Espresso.java</file>
+    <line>63</line>
+    <module>app</module>
+    <package>com.example.meravdor.supermarket</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/androidTest/java/com/example/meravdor/supermarket/Espresso.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Line is longer than allowed by code style</problem_class>
+    <description>Line is longer than allowed by code style (&gt; 100 columns)</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/example/meravdor/supermarket/Espresso.java</file>
+    <line>112</line>
+    <module>app</module>
+    <package>com.example.meravdor.supermarket</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/androidTest/java/com/example/meravdor/supermarket/Espresso.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Line is longer than allowed by code style</problem_class>
+    <description>Line is longer than allowed by code style (&gt; 100 columns)</description>
+  </problem>
+</problems>
+

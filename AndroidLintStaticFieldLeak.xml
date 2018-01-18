@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<problems>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/LoginActivity.java</file>
+    <line>361</line>
+    <module>app</module>
+    <package>com.example.meravdor.supermarket</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/LoginActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Static Field Leaks</problem_class>
+    <hints />
+    <description>&lt;html&gt;This AsyncTask class should be static or leaks might occur (com.example.meravdor.supermarket.LoginActivity.UserLoginTask)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/ProfileActivity.java</file>
+    <line>22</line>
+    <module>app</module>
+    <package>com.example.meravdor.supermarket</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/ProfileActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Static Field Leaks</problem_class>
+    <hints />
+    <description>&lt;html&gt;Do not place Android context classes in static fields; this is a memory leak (and also breaks Instant Run)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/ProfileActivity.java</file>
+    <line>23</line>
+    <module>app</module>
+    <package>com.example.meravdor.supermarket</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/ProfileActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Static Field Leaks</problem_class>
+    <hints />
+    <description>&lt;html&gt;Do not place Android context classes in static fields; this is a memory leak (and also breaks Instant Run)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/ProfileActivity.java</file>
+    <line>24</line>
+    <module>app</module>
+    <package>com.example.meravdor.supermarket</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/ProfileActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Static Field Leaks</problem_class>
+    <hints />
+    <description>&lt;html&gt;Do not place Android context classes in static fields; this is a memory leak (and also breaks Instant Run)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/ProfileActivity.java</file>
+    <line>25</line>
+    <module>app</module>
+    <package>com.example.meravdor.supermarket</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/ProfileActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Static Field Leaks</problem_class>
+    <hints />
+    <description>&lt;html&gt;Do not place Android context classes in static fields; this is a memory leak (and also breaks Instant Run)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/ProfileActivity.java</file>
+    <line>26</line>
+    <module>app</module>
+    <package>com.example.meravdor.supermarket</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/ProfileActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Static Field Leaks</problem_class>
+    <hints />
+    <description>&lt;html&gt;Do not place Android context classes in static fields; this is a memory leak (and also breaks Instant Run)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/ProfileActivity.java</file>
+    <line>27</line>
+    <module>app</module>
+    <package>com.example.meravdor.supermarket</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/ProfileActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Static Field Leaks</problem_class>
+    <hints />
+    <description>&lt;html&gt;Do not place Android context classes in static fields; this is a memory leak (and also breaks Instant Run)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/ProfileActivity.java</file>
+    <line>28</line>
+    <module>app</module>
+    <package>com.example.meravdor.supermarket</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/ProfileActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Static Field Leaks</problem_class>
+    <hints />
+    <description>&lt;html&gt;Do not place Android context classes in static fields; this is a memory leak (and also breaks Instant Run)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/ProfileActivity.java</file>
+    <line>29</line>
+    <module>app</module>
+    <package>com.example.meravdor.supermarket</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/ProfileActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Static Field Leaks</problem_class>
+    <hints />
+    <description>&lt;html&gt;Do not place Android context classes in static fields; this is a memory leak (and also breaks Instant Run)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/RegisterActivity.java</file>
+    <line>47</line>
+    <module>app</module>
+    <package>com.example.meravdor.supermarket</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/RegisterActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Static Field Leaks</problem_class>
+    <hints />
+    <description>&lt;html&gt;Do not place Android context classes in static fields; this is a memory leak (and also breaks Instant Run)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/listOfProActivity.java</file>
+    <line>21</line>
+    <module>app</module>
+    <package>com.example.meravdor.supermarket</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/listOfProActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Static Field Leaks</problem_class>
+    <hints />
+    <description>&lt;html&gt;Do not place Android context classes in static fields; this is a memory leak (and also breaks Instant Run)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/listOfProActivity.java</file>
+    <line>22</line>
+    <module>app</module>
+    <package>com.example.meravdor.supermarket</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/listOfProActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Static Field Leaks</problem_class>
+    <hints />
+    <description>&lt;html&gt;Do not place Android context classes in static fields; this is a memory leak (and also breaks Instant Run)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/listOfProActivity.java</file>
+    <line>23</line>
+    <module>app</module>
+    <package>com.example.meravdor.supermarket</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/listOfProActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Static Field Leaks</problem_class>
+    <hints />
+    <description>&lt;html&gt;Do not place Android context classes in static fields; this is a memory leak (and also breaks Instant Run)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/listOfProActivity.java</file>
+    <line>24</line>
+    <module>app</module>
+    <package>com.example.meravdor.supermarket</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/listOfProActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Static Field Leaks</problem_class>
+    <hints />
+    <description>&lt;html&gt;Do not place Android context classes in static fields; this is a memory leak (and also breaks Instant Run)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/ProductActivity.java</file>
+    <line>18</line>
+    <module>app</module>
+    <package>com.example.meravdor.supermarket</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/ProductActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Static Field Leaks</problem_class>
+    <hints />
+    <description>&lt;html&gt;Do not place Android context classes in static fields; this is a memory leak (and also breaks Instant Run)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/ProductActivity.java</file>
+    <line>19</line>
+    <module>app</module>
+    <package>com.example.meravdor.supermarket</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/ProductActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Static Field Leaks</problem_class>
+    <hints />
+    <description>&lt;html&gt;Do not place Android context classes in static fields; this is a memory leak (and also breaks Instant Run)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/ProductActivity.java</file>
+    <line>20</line>
+    <module>app</module>
+    <package>com.example.meravdor.supermarket</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/ProductActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Static Field Leaks</problem_class>
+    <hints />
+    <description>&lt;html&gt;Do not place Android context classes in static fields; this is a memory leak (and also breaks Instant Run)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/ProductActivity.java</file>
+    <line>21</line>
+    <module>app</module>
+    <package>com.example.meravdor.supermarket</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/ProductActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Static Field Leaks</problem_class>
+    <hints />
+    <description>&lt;html&gt;Do not place Android context classes in static fields; this is a memory leak (and also breaks Instant Run)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/ProductActivity.java</file>
+    <line>22</line>
+    <module>app</module>
+    <package>com.example.meravdor.supermarket</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/ProductActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Static Field Leaks</problem_class>
+    <hints />
+    <description>&lt;html&gt;Do not place Android context classes in static fields; this is a memory leak (and also breaks Instant Run)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/ProductActivity.java</file>
+    <line>23</line>
+    <module>app</module>
+    <package>com.example.meravdor.supermarket</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/ProductActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Static Field Leaks</problem_class>
+    <hints />
+    <description>&lt;html&gt;Do not place Android context classes in static fields; this is a memory leak (and also breaks Instant Run)&lt;/html&gt;</description>
+  </problem>
+</problems>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<problems>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/ProductActivity.java</file>
+    <line>45</line>
+    <module>app</module>
+    <package>com.example.meravdor.supermarket</package>
+    <entry_point TYPE="method" FQNAME="com.example.meravdor.supermarket.ProductActivity void onCreate(android.os.Bundle savedInstanceState)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Mismatched query and update of collection</problem_class>
+    <description>Contents of collection &lt;code&gt;products&lt;/code&gt; are updated, but never queried #loc</description>
+  </problem>
+</problems>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<problems>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/example/meravdor/supermarket/Espresso.java</file>
+    <line>125</line>
+    <module>app</module>
+    <package>com.example.meravdor.supermarket</package>
+    <entry_point TYPE="class" FQNAME="com.example.meravdor.supermarket.Espresso$1" />
+    <problem_class severity="WARNING" attribute_key="DEPRECATED_ATTRIBUTES">Deprecated API usage</problem_class>
+    <description>'org.junit.internal.matchers.TypeSafeMatcher' is deprecated</description>
+  </problem>
+</problems>
+

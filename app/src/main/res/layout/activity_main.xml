@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.meravdor.supermarket.MainActivity">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="100dp"
+        android:background="@color/startblue"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <Button
+            android:id="@+id/loginButton"
+            android:layout_width="190dp"
+            android:layout_height="180dp"
+            android:layout_marginTop="20dp"
+            android:background="@android:drawable/star_off"
+            android:backgroundTint="@color/common_google_signin_btn_text_light_disabled"
+            android:fontFamily="casual"
+            android:text="Login"
+            android:textAllCaps="false"
+            android:textColor="@color/colorPrimaryDark"
+            android:textSize="30sp"
+            android:textStyle="bold"
+            tools:layout_editor_absoluteX="0dp"
+            tools:layout_editor_absoluteY="187dp" />
+
+        <Button
+            android:id="@+id/registerButton"
+            android:layout_width="190dp"
+            android:layout_height="180dp"
+            android:layout_marginTop="20dp"
+            android:background="@android:drawable/star_off"
+            android:backgroundTint="@color/common_google_signin_btn_text_light_disabled"
+            android:fontFamily="casual"
+            android:text="Register"
+            android:textAllCaps="false"
+            android:textColor="@color/colorPrimaryDark"
+            android:textSize="30sp"
+            android:textStyle="bold"
+            tools:layout_editor_absoluteX="51dp"
+            tools:layout_editor_absoluteY="336dp" />
+
+
+
+
+    </LinearLayout>
+    <TextView
+        android:id="@+id/we"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="320dp"
+        android:background="@color/startblue"
+        android:fontFamily="casual"
+        android:text="© Maayan Elbaz, Merav Dor and Avi Barazani"
+        android:textAlignment="center"
+        android:textAppearance="@style/TextAppearance.AppCompat"
+        android:textColor="@color/colorPrimaryDark"
+        android:textStyle="bold" />
+
+</android.support.constraint.ConstraintLayout>

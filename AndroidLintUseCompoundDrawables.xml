@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<problems>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_profile.xml</file>
+    <line>46</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_profile.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Node can be replaced by a TextView with compound drawables</problem_class>
+    <hints />
+    <description>&lt;html&gt;This tag and its children can be replaced by one &lt;code&gt;&amp;lt;TextView/&gt;&lt;/code&gt; and a compound drawable&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_profile.xml</file>
+    <line>64</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_profile.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Node can be replaced by a TextView with compound drawables</problem_class>
+    <hints />
+    <description>&lt;html&gt;This tag and its children can be replaced by one &lt;code&gt;&amp;lt;TextView/&gt;&lt;/code&gt; and a compound drawable&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_profile.xml</file>
+    <line>83</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_profile.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Node can be replaced by a TextView with compound drawables</problem_class>
+    <hints />
+    <description>&lt;html&gt;This tag and its children can be replaced by one &lt;code&gt;&amp;lt;TextView/&gt;&lt;/code&gt; and a compound drawable&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_profile.xml</file>
+    <line>102</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_profile.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Node can be replaced by a TextView with compound drawables</problem_class>
+    <hints />
+    <description>&lt;html&gt;This tag and its children can be replaced by one &lt;code&gt;&amp;lt;TextView/&gt;&lt;/code&gt; and a compound drawable&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_profile.xml</file>
+    <line>128</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_profile.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Node can be replaced by a TextView with compound drawables</problem_class>
+    <hints />
+    <description>&lt;html&gt;This tag and its children can be replaced by one &lt;code&gt;&amp;lt;TextView/&gt;&lt;/code&gt; and a compound drawable&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_profile.xml</file>
+    <line>146</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_profile.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Node can be replaced by a TextView with compound drawables</problem_class>
+    <hints />
+    <description>&lt;html&gt;This tag and its children can be replaced by one &lt;code&gt;&amp;lt;TextView/&gt;&lt;/code&gt; and a compound drawable&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_product.xml</file>
+    <line>44</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_product.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Node can be replaced by a TextView with compound drawables</problem_class>
+    <hints />
+    <description>&lt;html&gt;This tag and its children can be replaced by one &lt;code&gt;&amp;lt;TextView/&gt;&lt;/code&gt; and a compound drawable&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_product.xml</file>
+    <line>62</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_product.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Node can be replaced by a TextView with compound drawables</problem_class>
+    <hints />
+    <description>&lt;html&gt;This tag and its children can be replaced by one &lt;code&gt;&amp;lt;TextView/&gt;&lt;/code&gt; and a compound drawable&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_product.xml</file>
+    <line>82</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_product.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Node can be replaced by a TextView with compound drawables</problem_class>
+    <hints />
+    <description>&lt;html&gt;This tag and its children can be replaced by one &lt;code&gt;&amp;lt;TextView/&gt;&lt;/code&gt; and a compound drawable&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_product.xml</file>
+    <line>101</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_product.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Node can be replaced by a TextView with compound drawables</problem_class>
+    <hints />
+    <description>&lt;html&gt;This tag and its children can be replaced by one &lt;code&gt;&amp;lt;TextView/&gt;&lt;/code&gt; and a compound drawable&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_product.xml</file>
+    <line>120</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_product.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Node can be replaced by a TextView with compound drawables</problem_class>
+    <hints />
+    <description>&lt;html&gt;This tag and its children can be replaced by one &lt;code&gt;&amp;lt;TextView/&gt;&lt;/code&gt; and a compound drawable&lt;/html&gt;</description>
+  </problem>
+</problems>
+

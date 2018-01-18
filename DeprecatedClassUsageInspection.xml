@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<problems>
+  <problem>
+    <file>file://$PROJECT_DIR$/com/firebase/client/annotations.xml</file>
+    <line>2</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/com/firebase/client/annotations.xml" />
+    <problem_class severity="WARNING" attribute_key="DEPRECATED_ATTRIBUTES">Deprecated API usage in XML</problem_class>
+    <description>'com.firebase.client.ChildEventListener' is deprecated</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/com/google/firebase/database/annotations.xml</file>
+    <line>2</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/com/google/firebase/database/annotations.xml" />
+    <problem_class severity="WARNING" attribute_key="DEPRECATED_ATTRIBUTES">Deprecated API usage in XML</problem_class>
+    <description>'com.google.firebase.database.ChildEventListener' is deprecated</description>
+  </problem>
+</problems>
+

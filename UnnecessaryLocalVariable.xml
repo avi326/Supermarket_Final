@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<problems>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/ProfileActivity.java</file>
+    <line>174</line>
+    <module>app</module>
+    <package>com.example.meravdor.supermarket</package>
+    <entry_point TYPE="method" FQNAME="com.example.meravdor.supermarket.ProfileActivity$8 void onDataChange(com.firebase.client.DataSnapshot dataSnapshot)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Redundant local variable</problem_class>
+    <description>Local variable &lt;code&gt;value&lt;/code&gt; is redundant #loc</description>
+  </problem>
+</problems>
+

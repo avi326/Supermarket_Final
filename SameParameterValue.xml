@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<problems>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/LoginActivity.java</file>
+    <line>271</line>
+    <module>app</module>
+    <package>com.example.meravdor.supermarket</package>
+    <entry_point TYPE="method" FQNAME="com.example.meravdor.supermarket.LoginActivity void showProgress(boolean show)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Actual method parameter is the same constant</problem_class>
+    <hints>
+      <hint value="show false" />
+    </hints>
+    <description>Actual value of parameter '&lt;code&gt;show&lt;/code&gt;' is always '&lt;code&gt;false&lt;/code&gt;'</description>
+  </problem>
+</problems>
+

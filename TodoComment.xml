@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<problems>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/LoginActivity.java</file>
+    <line>53</line>
+    <module>app</module>
+    <package>com.example.meravdor.supermarket</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/LoginActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">TODO comment</problem_class>
+    <description>TODO comment &lt;code&gt;/** * A dummy authentication store containing known user names and passwords. * TODO: remo...&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/LoginActivity.java</file>
+    <line>258</line>
+    <module>app</module>
+    <package>com.example.meravdor.supermarket</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/LoginActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">TODO comment</problem_class>
+    <description>TODO comment &lt;code&gt;//TODO: Replace this with your own logic&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/LoginActivity.java</file>
+    <line>263</line>
+    <module>app</module>
+    <package>com.example.meravdor.supermarket</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/LoginActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">TODO comment</problem_class>
+    <description>TODO comment &lt;code&gt;//TODO: Replace this with your own logic&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/LoginActivity.java</file>
+    <line>373</line>
+    <module>app</module>
+    <package>com.example.meravdor.supermarket</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/LoginActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">TODO comment</problem_class>
+    <description>TODO comment &lt;code&gt;// TODO: attempt authentication against a network service.&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/LoginActivity.java</file>
+    <line>390</line>
+    <module>app</module>
+    <package>com.example.meravdor.supermarket</package>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/LoginActivity.java" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">TODO comment</problem_class>
+    <description>TODO comment &lt;code&gt;// TODO: register the new account here.&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/debug/res/values/google_maps_api.xml</file>
+    <line>2</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/debug/res/values/google_maps_api.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">TODO comment</problem_class>
+    <description>TODO comment &lt;code&gt;&lt;!-- TODO: Before you run your application, you need a Google Maps API key. To get one, fol...&lt;/code&gt; #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/release/res/values/google_maps_api.xml</file>
+    <line>2</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/release/res/values/google_maps_api.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">TODO comment</problem_class>
+    <description>TODO comment &lt;code&gt;&lt;!-- TODO: Before you release your application, you need a Google Maps API key. To do this,...&lt;/code&gt; #loc</description>
+  </problem>
+</problems>
+

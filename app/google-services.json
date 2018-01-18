@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "157849224559",
+    "firebase_url": "https://supermarket-8ae61.firebaseio.com",
+    "project_id": "supermarket-8ae61",
+    "storage_bucket": "supermarket-8ae61.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157849224559:android:adf7145f7d6b5739",
+        "android_client_info": {
+          "package_name": "com.example.meravdor.supermarket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "157849224559-ajt17bng8ghq5aks2uedlirmo05u2caq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.meravdor.supermarket",
+            "certificate_hash": "419782c9c8779f612f4df1b377847f10b5be5d48"
+          }
+        },
+        {
+          "client_id": "157849224559-lqcd41iak2b8473lmcnevua3kckho1vu.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "157849224559-spoparaetk8sqflt47lmvplmq6a2segs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.meravdor.supermarket",
+            "certificate_hash": "708d93d614e195f0b175bb44d9758c82a6d5f19e"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZcK5TOLa8tnJEz47Iw6TUlaO8uepdArg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "157849224559-lqcd41iak2b8473lmcnevua3kckho1vu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

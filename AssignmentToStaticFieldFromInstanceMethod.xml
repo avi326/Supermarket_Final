@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<problems>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/ProfileActivity.java</file>
+    <line>57</line>
+    <module>app</module>
+    <package>com.example.meravdor.supermarket</package>
+    <entry_point TYPE="method" FQNAME="com.example.meravdor.supermarket.ProfileActivity void onCreate(android.os.Bundle savedInstanceState)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Assignment to static field from instance context</problem_class>
+    <description>Assignment to static field &lt;code&gt;txtfirstname&lt;/code&gt; from instance context #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/ProfileActivity.java</file>
+    <line>58</line>
+    <module>app</module>
+    <package>com.example.meravdor.supermarket</package>
+    <entry_point TYPE="method" FQNAME="com.example.meravdor.supermarket.ProfileActivity void onCreate(android.os.Bundle savedInstanceState)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Assignment to static field from instance context</problem_class>
+    <description>Assignment to static field &lt;code&gt;imageview&lt;/code&gt; from instance context #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/ProfileActivity.java</file>
+    <line>81</line>
+    <module>app</module>
+    <package>com.example.meravdor.supermarket</package>
+    <entry_point TYPE="method" FQNAME="com.example.meravdor.supermarket.ProfileActivity void onCreate(android.os.Bundle savedInstanceState)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Assignment to static field from instance context</problem_class>
+    <description>Assignment to static field &lt;code&gt;txtlastname&lt;/code&gt; from instance context #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/ProfileActivity.java</file>
+    <line>95</line>
+    <module>app</module>
+    <package>com.example.meravdor.supermarket</package>
+    <entry_point TYPE="method" FQNAME="com.example.meravdor.supermarket.ProfileActivity void onCreate(android.os.Bundle savedInstanceState)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Assignment to static field from instance context</problem_class>
+    <description>Assignment to static field &lt;code&gt;txtuser&lt;/code&gt; from instance context #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/ProfileActivity.java</file>
+    <line>110</line>
+    <module>app</module>
+    <package>com.example.meravdor.supermarket</package>
+    <entry_point TYPE="method" FQNAME="com.example.meravdor.supermarket.ProfileActivity void onCreate(android.os.Bundle savedInstanceState)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Assignment to static field from instance context</problem_class>
+    <description>Assignment to static field &lt;code&gt;txtstreet&lt;/code&gt; from instance context #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/ProfileActivity.java</file>
+    <line>124</line>
+    <module>app</module>
+    <package>com.example.meravdor.supermarket</package>
+    <entry_point TYPE="method" FQNAME="com.example.meravdor.supermarket.ProfileActivity void onCreate(android.os.Bundle savedInstanceState)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Assignment to static field from instance context</problem_class>
+    <description>Assignment to static field &lt;code&gt;txtcity&lt;/code&gt; from instance context #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/ProfileActivity.java</file>
+    <line>141</line>
+    <module>app</module>
+    <package>com.example.meravdor.supermarket</package>
+    <entry_point TYPE="method" FQNAME="com.example.meravdor.supermarket.ProfileActivity void onCreate(android.os.Bundle savedInstanceState)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Assignment to static field from instance context</problem_class>
+    <description>Assignment to static field &lt;code&gt;txtpassword&lt;/code&gt; from instance context #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/ProfileActivity.java</file>
+    <line>156</line>
+    <module>app</module>
+    <package>com.example.meravdor.supermarket</package>
+    <entry_point TYPE="method" FQNAME="com.example.meravdor.supermarket.ProfileActivity void onCreate(android.os.Bundle savedInstanceState)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Assignment to static field from instance context</problem_class>
+    <description>Assignment to static field &lt;code&gt;txtemail&lt;/code&gt; from instance context #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/RegisterActivity.java</file>
+    <line>67</line>
+    <module>app</module>
+    <package>com.example.meravdor.supermarket</package>
+    <entry_point TYPE="method" FQNAME="com.example.meravdor.supermarket.RegisterActivity void onCreate(android.os.Bundle savedInstanceState)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Assignment to static field from instance context</problem_class>
+    <description>Assignment to static field &lt;code&gt;imageToUpload&lt;/code&gt; from instance context #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/listOfProActivity.java</file>
+    <line>63</line>
+    <module>app</module>
+    <package>com.example.meravdor.supermarket</package>
+    <entry_point TYPE="method" FQNAME="com.example.meravdor.supermarket.listOfProActivity$2 void onClick(android.view.View v)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Assignment to static field from instance context</problem_class>
+    <description>Assignment to static field &lt;code&gt;pro1&lt;/code&gt; from instance context #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/listOfProActivity.java</file>
+    <line>35</line>
+    <module>app</module>
+    <package>com.example.meravdor.supermarket</package>
+    <entry_point TYPE="method" FQNAME="com.example.meravdor.supermarket.listOfProActivity void onCreate(android.os.Bundle savedInstanceState)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Assignment to static field from instance context</problem_class>
+    <description>Assignment to static field &lt;code&gt;box&lt;/code&gt; from instance context #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/listOfProActivity.java</file>
+    <line>36</line>
+    <module>app</module>
+    <package>com.example.meravdor.supermarket</package>
+    <entry_point TYPE="method" FQNAME="com.example.meravdor.supermarket.listOfProActivity void onCreate(android.os.Bundle savedInstanceState)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Assignment to static field from instance context</problem_class>
+    <description>Assignment to static field &lt;code&gt;box2&lt;/code&gt; from instance context #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/listOfProActivity.java</file>
+    <line>38</line>
+    <module>app</module>
+    <package>com.example.meravdor.supermarket</package>
+    <entry_point TYPE="method" FQNAME="com.example.meravdor.supermarket.listOfProActivity void onCreate(android.os.Bundle savedInstanceState)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Assignment to static field from instance context</problem_class>
+    <description>Assignment to static field &lt;code&gt;txtname1&lt;/code&gt; from instance context #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/listOfProActivity.java</file>
+    <line>69</line>
+    <module>app</module>
+    <package>com.example.meravdor.supermarket</package>
+    <entry_point TYPE="method" FQNAME="com.example.meravdor.supermarket.listOfProActivity void onCreate(android.os.Bundle savedInstanceState)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Assignment to static field from instance context</problem_class>
+    <description>Assignment to static field &lt;code&gt;txtname2&lt;/code&gt; from instance context #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/listOfProActivity.java</file>
+    <line>90</line>
+    <module>app</module>
+    <package>com.example.meravdor.supermarket</package>
+    <entry_point TYPE="method" FQNAME="com.example.meravdor.supermarket.listOfProActivity$4 void onClick(android.view.View v)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Assignment to static field from instance context</problem_class>
+    <description>Assignment to static field &lt;code&gt;pro1&lt;/code&gt; from instance context #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/ProductActivity.java</file>
+    <line>46</line>
+    <module>app</module>
+    <package>com.example.meravdor.supermarket</package>
+    <entry_point TYPE="method" FQNAME="com.example.meravdor.supermarket.ProductActivity void onCreate(android.os.Bundle savedInstanceState)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Assignment to static field from instance context</problem_class>
+    <description>Assignment to static field &lt;code&gt;txtname&lt;/code&gt; from instance context #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/ProductActivity.java</file>
+    <line>65</line>
+    <module>app</module>
+    <package>com.example.meravdor.supermarket</package>
+    <entry_point TYPE="method" FQNAME="com.example.meravdor.supermarket.ProductActivity void onCreate(android.os.Bundle savedInstanceState)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Assignment to static field from instance context</problem_class>
+    <description>Assignment to static field &lt;code&gt;txtbarcode&lt;/code&gt; from instance context #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/ProductActivity.java</file>
+    <line>83</line>
+    <module>app</module>
+    <package>com.example.meravdor.supermarket</package>
+    <entry_point TYPE="method" FQNAME="com.example.meravdor.supermarket.ProductActivity void onCreate(android.os.Bundle savedInstanceState)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Assignment to static field from instance context</problem_class>
+    <description>Assignment to static field &lt;code&gt;txtdepartment&lt;/code&gt; from instance context #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/ProductActivity.java</file>
+    <line>101</line>
+    <module>app</module>
+    <package>com.example.meravdor.supermarket</package>
+    <entry_point TYPE="method" FQNAME="com.example.meravdor.supermarket.ProductActivity void onCreate(android.os.Bundle savedInstanceState)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Assignment to static field from instance context</problem_class>
+    <description>Assignment to static field &lt;code&gt;txtshelf&lt;/code&gt; from instance context #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/ProductActivity.java</file>
+    <line>119</line>
+    <module>app</module>
+    <package>com.example.meravdor.supermarket</package>
+    <entry_point TYPE="method" FQNAME="com.example.meravdor.supermarket.ProductActivity void onCreate(android.os.Bundle savedInstanceState)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Assignment to static field from instance context</problem_class>
+    <description>Assignment to static field &lt;code&gt;txtcapacity&lt;/code&gt; from instance context #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/ProductActivity.java</file>
+    <line>137</line>
+    <module>app</module>
+    <package>com.example.meravdor.supermarket</package>
+    <entry_point TYPE="method" FQNAME="com.example.meravdor.supermarket.ProductActivity void onCreate(android.os.Bundle savedInstanceState)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Assignment to static field from instance context</problem_class>
+    <description>Assignment to static field &lt;code&gt;txtprice&lt;/code&gt; from instance context #loc</description>
+  </problem>
+</problems>
+

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<problems>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_product.xml</file>
+    <line>141</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_product.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Obsolete layout params</problem_class>
+    <hints />
+    <description>&lt;html&gt;Invalid layout param in a &lt;code&gt;LinearLayout&lt;/code&gt;: &lt;code&gt;layout_alignParentLeft&lt;/code&gt;&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_product.xml</file>
+    <line>142</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_product.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Obsolete layout params</problem_class>
+    <hints />
+    <description>&lt;html&gt;Invalid layout param in a &lt;code&gt;LinearLayout&lt;/code&gt;: &lt;code&gt;layout_alignParentStart&lt;/code&gt;&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_product.xml</file>
+    <line>143</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_product.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Obsolete layout params</problem_class>
+    <hints />
+    <description>&lt;html&gt;Invalid layout param in a &lt;code&gt;LinearLayout&lt;/code&gt;: &lt;code&gt;layout_alignParentTop&lt;/code&gt;&lt;/html&gt;</description>
+  </problem>
+</problems>
+

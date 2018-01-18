@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<problems>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/User.java</file>
+    <line>3</line>
+    <module>app</module>
+    <package>com.example.meravdor.supermarket</package>
+    <entry_point TYPE="class" FQNAME="com.example.meravdor.supermarket.User" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Default File Template Usage</problem_class>
+    <description>Default File template</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/Product.java</file>
+    <line>3</line>
+    <module>app</module>
+    <package>com.example.meravdor.supermarket</package>
+    <entry_point TYPE="class" FQNAME="com.example.meravdor.supermarket.Product" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Default File Template Usage</problem_class>
+    <description>Default File template</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/Sale.java</file>
+    <line>3</line>
+    <module>app</module>
+    <package>com.example.meravdor.supermarket</package>
+    <entry_point TYPE="class" FQNAME="com.example.meravdor.supermarket.Sale" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Default File Template Usage</problem_class>
+    <description>Default File template</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/androidTest/java/com/example/meravdor/supermarket/Espresso.java</file>
+    <line>28</line>
+    <module>app</module>
+    <package>com.example.meravdor.supermarket</package>
+    <entry_point TYPE="class" FQNAME="com.example.meravdor.supermarket.Espresso" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Default File Template Usage</problem_class>
+    <description>Default File template</description>
+  </problem>
+</problems>
+

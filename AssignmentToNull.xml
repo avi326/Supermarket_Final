@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<problems>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/LoginActivity.java</file>
+    <line>410</line>
+    <module>app</module>
+    <package>com.example.meravdor.supermarket</package>
+    <entry_point TYPE="method" FQNAME="com.example.meravdor.supermarket.LoginActivity.UserLoginTask void onCancelled()" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Assignment to 'null'</problem_class>
+    <description>Assignment of variable &lt;code&gt;mAuthTask&lt;/code&gt; to 'null' #loc</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/java/com/example/meravdor/supermarket/LoginActivity.java</file>
+    <line>396</line>
+    <module>app</module>
+    <package>com.example.meravdor.supermarket</package>
+    <entry_point TYPE="method" FQNAME="com.example.meravdor.supermarket.LoginActivity.UserLoginTask void onPostExecute(java.lang.Boolean success)" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Assignment to 'null'</problem_class>
+    <description>Assignment of variable &lt;code&gt;mAuthTask&lt;/code&gt; to 'null' #loc</description>
+  </problem>
+</problems>
+

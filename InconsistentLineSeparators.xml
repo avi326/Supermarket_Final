@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<problems>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/res/drawable/ic_account_circle_black_24dp.xml</file>
+    <line>1</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_account_circle_black_24dp.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Inconsistent line separators</problem_class>
+    <description>Line separators in the current file (\n) differ from the project defaults (\r\n)</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/gradlew</file>
+    <line>1</line>
+    <module>Supermarket</module>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/gradlew" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Inconsistent line separators</problem_class>
+    <description>Line separators in the current file (\n) differ from the project defaults (\r\n)</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/res/drawable/ic_home_black_24dp.xml</file>
+    <line>1</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_home_black_24dp.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Inconsistent line separators</problem_class>
+    <description>Line separators in the current file (\n) differ from the project defaults (\r\n)</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/res/drawable/ic_email_black_24dp.xml</file>
+    <line>1</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_email_black_24dp.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Inconsistent line separators</problem_class>
+    <description>Line separators in the current file (\n) differ from the project defaults (\r\n)</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/res/drawable/ic_phone_android_black_24dp.xml</file>
+    <line>1</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_phone_android_black_24dp.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Inconsistent line separators</problem_class>
+    <description>Line separators in the current file (\n) differ from the project defaults (\r\n)</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/res/drawable/ic_account_box_black_24dp.xml</file>
+    <line>1</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_account_box_black_24dp.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Inconsistent line separators</problem_class>
+    <description>Line separators in the current file (\n) differ from the project defaults (\r\n)</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/res/drawable/ic_lock_outline_black_24dp.xml</file>
+    <line>1</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_lock_outline_black_24dp.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Inconsistent line separators</problem_class>
+    <description>Line separators in the current file (\n) differ from the project defaults (\r\n)</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/google-services.json</file>
+    <line>1</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/google-services.json" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Inconsistent line separators</problem_class>
+    <description>Line separators in the current file (\n) differ from the project defaults (\r\n)</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/res/drawable/ic_attach_money_black_24dp.xml</file>
+    <line>1</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_attach_money_black_24dp.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Inconsistent line separators</problem_class>
+    <description>Line separators in the current file (\n) differ from the project defaults (\r\n)</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/res/drawable/ic_border_horizontal_black_24dp.xml</file>
+    <line>1</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_border_horizontal_black_24dp.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Inconsistent line separators</problem_class>
+    <description>Line separators in the current file (\n) differ from the project defaults (\r\n)</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/res/drawable/ic_border_style_black_24dp.xml</file>
+    <line>1</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_border_style_black_24dp.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Inconsistent line separators</problem_class>
+    <description>Line separators in the current file (\n) differ from the project defaults (\r\n)</description>
+  </problem>
+</problems>
+

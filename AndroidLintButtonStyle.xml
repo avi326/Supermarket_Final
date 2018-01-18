@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<problems>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml</file>
+    <line>15</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Button should be borderless</problem_class>
+    <hints />
+    <description>&lt;html&gt;Buttons in button bars should be borderless; use &lt;code&gt;style=&quot;?android:attr/buttonBarButtonStyle&quot;&lt;/code&gt; (and &lt;code&gt;?android:attr/buttonBarStyle&lt;/code&gt; on the parent)&lt;/html&gt;</description>
+  </problem>
+  <problem>
+    <file>file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml</file>
+    <line>31</line>
+    <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
+    <problem_class severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Button should be borderless</problem_class>
+    <hints />
+    <description>&lt;html&gt;Buttons in button bars should be borderless; use &lt;code&gt;style=&quot;?android:attr/buttonBarButtonStyle&quot;&lt;/code&gt; (and &lt;code&gt;?android:attr/buttonBarStyle&lt;/code&gt; on the parent)&lt;/html&gt;</description>
+  </problem>
+</problems>
+
